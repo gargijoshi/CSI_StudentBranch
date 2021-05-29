@@ -1,10 +1,4 @@
 /******************************************************************************
- 
- Copyrights: Gargi Shekhar Joshi
- Roll No: 2378      CNum: C22020222304
- 
- Assignment No: 2 [Linked List]
- 
 Problem Statement:
 Department of Computer Engineering has 'CSI student branch'. Students of second, third and final year can subscribe to membership. Design a system to maintain CSI student branch membership information. Choose appropriate data structure. Write a program using C++ for following operations:
 1. Add new members.
