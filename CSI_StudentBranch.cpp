@@ -149,7 +149,7 @@ void list::removeMembers(){     //Deletes particular record
         else
             cout<<"Record deleted successfully!";
         cout<<temp->rollNo<<" "<<temp->name<<" "<<temp->year<<"\n";
-        delete(temp);*/
+        delete(temp);
     }
        
 }
